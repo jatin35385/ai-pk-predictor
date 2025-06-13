@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jatin35385/ai-pk-predictor/blob/main/AI_PK_Predictor.ipynb)
 # AI-PK-Predictor
 
 AI-PK-Predictor is a deep learning-based tool designed to estimate individual pharmacokinetic (PK) parameters — including half-life, clearance, and AUC — using only minimal clinical features such as age, weight, sex, liver function, and creatinine levels.
